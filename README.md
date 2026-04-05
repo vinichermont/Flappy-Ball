@@ -12,3 +12,16 @@ Disposição da Montagem
 <img src="https://github.com/user-attachments/assets/4c145d26-c3fd-499b-9b85-8681b5bee730" width="300px" />
 </div>
 
+Imagens do jogo
+<div align="center">
+<img src="https://github.com/vinichermont/Flappy-Ball/issues/2#issue-4207592744" width="300px" />
+</div>
+
+<div align="center">
+<img src="https://github.com/vinichermont/Flappy-Ball/issues/3#issue-4207599157" width="300px" />
+</div>
+
+Game Over
+<div align="center">
+<img src="https://github.com/vinichermont/Flappy-Ball/issues/4#issue-4207600168" width="300px" />
+</div>
