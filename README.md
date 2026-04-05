@@ -7,6 +7,12 @@ Display usado: Lcd Tft Ips Colorido 0.96 St7735 80x160
 Para usar o Display St7735 no Arduino Mega foi feito um divisor de tensão no protoboard, para ajuste da tensão enviada.
 Pinos Usados: CS 38, RST 42, DC 40, SCL 48 e SDA 47
 
+A biblioteca Adafruit_GFX fornece uma interface gráfica genérica, responsável pela renderização de elementos como textos, formas geométricas e animações na tela.
+
+Já a Adafruit_ST7735 é específica para o driver do display utilizado, permitindo a comunicação e o controle direto do módulo TFT baseado no chip ST7735.
+
+Por fim, a biblioteca SPI é fundamental para estabelecer a comunicação serial de alta velocidade entre o microcontrolador e o display, garantindo desempenho adequado para atualização gráfica em tempo real.
+
 Disposição da Montagem e Imagens do jogo
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
 
