@@ -20,6 +20,8 @@ Disposição da Montagem e Imagens do jogo
 
 </div>
 
-src="https://github.com/user-attachments/assets/d5cf7598-3f22-483d-b0cb-575925dbc044
-
-<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/77b7741e-0ea3-4a60-94ad-1d7f478f31c8" />
+<div align="center">
+  <video width="400" controls>
+    <source src="https://github.com/user-attachments/assets/27963788-c20f-4dfd-b2ec-43be95f22060" type="video/mp4">
+  </video>
+</div>
