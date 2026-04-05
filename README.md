@@ -10,16 +10,16 @@ Pinos Usados: CS 38, RST 42, DC 40, SCL 48 e SDA 47
 Disposição da Montagem e Imagens do jogo
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
 
-  <img src="https://github.com/user-attachments/assets/4c145d26-c3fd-499b-9b85-8681b5bee730" width="250" height="200" style="object-fit: cover;"/>
+  <img src="https://github.com/user-attachments/assets/77b7741e-0ea3-4a60-94ad-1d7f478f31c8" width="250" height="200" style="object-fit: cover;"/>
 
-  <img src="https://github.com/user-attachments/assets/ee52dd3d-7f46-4d7e-a48c-4bfb357305a6" width="250" height="200" style="object-fit: cover;"/>
+  <img src="https://github.com/user-attachments/assets/68fdacf1-cdc9-435e-b38f-c04629d5e031" width="250" height="200" style="object-fit: cover;"/>
 
-  <img src="https://github.com/user-attachments/assets/f1c40e49-9624-4b85-aa91-706224c34795" width="250" height="200" style="object-fit: cover;"/>
+  <img src="https://github.com/user-attachments/assets/ad842fc4-d91c-4816-80ef-cc0563f17fd2" width="250" height="200" style="object-fit: cover;"/>
 
-  <img src="https://github.com/user-attachments/assets/af0a9812-2e6b-4223-8a52-09c9b53df552" width="250" height="200" style="object-fit: cover;"/>
+  <img src="https://github.com/user-attachments/assets/23a5e89d-bb6d-4eec-8ae8-adf509016969" width="250" height="200" style="object-fit: cover;"/>
 
 </div>
 
-<div align="center">
-<img src="https://github.com/user-attachments/assets/d5cf7598-3f22-483d-b0cb-575925dbc044" width="300px" />
-</div>
+src="https://github.com/user-attachments/assets/d5cf7598-3f22-483d-b0cb-575925dbc044
+
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/77b7741e-0ea3-4a60-94ad-1d7f478f31c8" />
