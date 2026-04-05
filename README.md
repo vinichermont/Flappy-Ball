@@ -20,14 +20,24 @@ Disposição da Montagem e Imagens do jogo
 
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/user-attachments/assets/27963788-c20f-4dfd-b2ec-43be95f22060">
-    ▶ Ver vídeo completo
+    <img src="https://github.com/user-attachments/assets/d55fe707-1145-48dc-8168-d6bf51bbffd2" width="400"/>
   </a>
-</p>
+  <br><br>
+  <a href="https://github.com/user-attachments/assets/27963788-c20f-4dfd-b2ec-43be95f22060">
+    <b>▶ Assistir Vídeo</b>
+  </a>
+</div>
+
+
 
 <div align="center">
   <a href="https://github.com/user-attachments/assets/27963788-c20f-4dfd-b2ec-43be95f22060">
     <img src="https://github.com/user-attachments/assets/d55fe707-1145-48dc-8168-d6bf51bbffd2" width="400"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/user-attachments/assets/27963788-c20f-4dfd-b2ec-43be95f22060">
+    <img src="https://img.shields.io/badge/▶%20Assistir%20Vídeo-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </div>
