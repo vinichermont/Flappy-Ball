@@ -25,3 +25,7 @@ Game Over
 <div align="center">
 <img src="https://github.com/vinichermont/Flappy-Ball/issues/4#issue-4207600168" width="300px" />
 </div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/d5cf7598-3f22-483d-b0cb-575925dbc044" width="300px" />
+</div>
